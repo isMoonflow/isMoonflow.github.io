@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.moonflow.site/tags/index.html</loc>
+    
+    <lastmod>2023-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.moonflow.site/categories/index.html</loc>
+    
+    <lastmod>2023-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.moonflow.site/posts/62313/</loc>
     
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +40,7 @@
 
   <url>
     <loc>https://www.moonflow.site/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,14 +48,14 @@
   
   <url>
     <loc>https://www.moonflow.site/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.moonflow.site/tags/%E8%A1%A8%E6%83%85/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -46,7 +64,7 @@
   
   <url>
     <loc>https://www.moonflow.site/categories/Games/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
