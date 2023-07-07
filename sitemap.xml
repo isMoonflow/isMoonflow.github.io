@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.moonflow.site/messageboard/index.html</loc>
+    
+    <lastmod>2023-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.moonflow.site/tags/index.html</loc>
+    
+    <lastmod>2023-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.moonflow.site/posts/35931/</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -60,10 +78,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.moonflow.site/tags/windows/</loc>
+    <lastmod>2023-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.moonflow.site/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://www.moonflow.site/categories/Games/</loc>
+    <lastmod>2023-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.moonflow.site/categories/%E5%AE%89%E5%88%A9/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
