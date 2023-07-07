@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.moonflow.site/messageboard/index.html</loc>
+    <loc>https://blog.moonflow.site/messageboard/index.html</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/tags/index.html</loc>
+    <loc>https://blog.moonflow.site/tags/index.html</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/posts/35931/</loc>
+    <loc>https://blog.moonflow.site/posts/35931/</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/categories/index.html</loc>
+    <loc>https://blog.moonflow.site/categories/index.html</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/posts/62313/</loc>
+    <loc>https://blog.moonflow.site/posts/62313/</loc>
     
     <lastmod>2023-07-07</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/posts/16107/</loc>
+    <loc>https://blog.moonflow.site/posts/16107/</loc>
     
     <lastmod>2023-07-05</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>https://www.moonflow.site/</loc>
+    <loc>https://blog.moonflow.site/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,28 +65,28 @@
 
   
   <url>
-    <loc>https://www.moonflow.site/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</loc>
+    <loc>https://blog.moonflow.site/tags/windows/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/tags/%E8%A1%A8%E6%83%85/</loc>
+    <loc>https://blog.moonflow.site/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/tags/windows/</loc>
+    <loc>https://blog.moonflow.site/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://blog.moonflow.site/tags/%E8%A1%A8%E6%83%85/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -95,14 +95,14 @@
 
   
   <url>
-    <loc>https://www.moonflow.site/categories/Games/</loc>
+    <loc>https://blog.moonflow.site/categories/%E5%AE%89%E5%88%A9/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.moonflow.site/categories/%E5%AE%89%E5%88%A9/</loc>
+    <loc>https://blog.moonflow.site/categories/Games/</loc>
     <lastmod>2023-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
