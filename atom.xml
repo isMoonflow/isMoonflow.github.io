@@ -6,7 +6,7 @@
   <link href="https://blog.moonflow.site/atom.xml" rel="self"/>
   
   <link href="https://blog.moonflow.site/"/>
-  <updated>2023-07-07T15:48:50.177Z</updated>
+  <updated>2023-07-09T05:25:41.557Z</updated>
   <id>https://blog.moonflow.site/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.moonflow.site/posts/60543/"/>
     <id>https://blog.moonflow.site/posts/60543/</id>
     <published>2023-07-07T15:28:26.000Z</published>
-    <updated>2023-07-07T15:48:50.177Z</updated>
+    <updated>2023-07-09T05:25:41.557Z</updated>
     
     
       
@@ -35,6 +35,12 @@
     
     
     
+    <category term="安利" scheme="https://blog.moonflow.site/categories/recommend/"/>
+    
+    
+    <category term="windows" scheme="https://blog.moonflow.site/tags/windows/"/>
+    
+    <category term="软件" scheme="https://blog.moonflow.site/tags/software/"/>
     
   </entry>
   
